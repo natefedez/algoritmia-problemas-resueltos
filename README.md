@@ -1,2 +1,2 @@
 # Algoritmia_Problemas_Resueltos
-Compilación de problemas resueltos para Programación Competitiva 
+Compilación de problemas resueltos de Programación  
