@@ -17,14 +17,18 @@ Se dividen en distintas categorías:
 * I / O Python
 
 
-    import sys # lectura de linea mediante STDIN
+```python
+ import sys # lectura de linea mediante STDIN
     variable = sys.stdin.readline()
+```
+
+   
 
 * Importar todas las bibliotecas de C++
 
-
+```cpp
     #include<bits/stdc++.h>
-    
+```
 
 
 * Recursos:
@@ -33,3 +37,4 @@ Se dividen en distintas categorías:
     * [El Diego - UNR](https://drive.google.com/open?id=1vd-YY1OxXX9LHeZ5CzJVBBc8u2OYC027)
     * [Cracking The Coding Interview - G. Lakkmann](https://drive.google.com/open?id=1ZEmnVFE7t9Um7wzq-PzANrUoaMoQ3GwS)
     * [Guide To Competitive Programming - A. Laaksonen](https://drive.google.com/open?id=1O42YUxawWdQ_7hdcuqvmGHB2uNFFJ8uf)
+
