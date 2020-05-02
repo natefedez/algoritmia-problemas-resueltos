@@ -1,0 +1,75 @@
+cmake_minimum_required(VERSION 3.16)
+project(Algoritmia_Problemas_Resueltos)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(.)
+include_directories(Ad_Hoc)
+include_directories(Arithmetic_Algebra)
+include_directories(Brute_Force)
+include_directories(Combination)
+include_directories(Dynamic_Programming)
+include_directories(ICPC_WrldFnl)
+include_directories(Sorting_Searching)
+include_directories(Strings)
+
+add_executable(Algoritmia_Problemas_Resueltos
+    Ad_Hoc/counting_pretty_numbers.cpp
+    Ad_Hoc/general_election.cpp
+    Ad_Hoc/harder_ab.cpp
+    Ad_Hoc/pintu_and_fruits.cpp
+    Ad_Hoc/pitagoricos.cpp
+    Ad_Hoc/R2.cpp
+    Arithmetic_Algebra/calculating_probabilities.cpp
+    Arithmetic_Algebra/eliminating_numbers.cpp
+    Arithmetic_Algebra/triangular_numbers.cpp
+    Brute_Force/allinall.cpp
+    Brute_Force/financial_management.cpp
+    Brute_Force/hotel.cpp
+    Brute_Force/suma.cpp
+    Brute_Force/vida_universo_todo.cpp
+    Combination/geneticos_nreinas.cpp
+    Combination/n_reinas_On.cpp
+    Dynamic_Programming/basicsum.cpp
+    Dynamic_Programming/extremeecrypt.cpp
+    Dynamic_Programming/sumtriangle.cpp
+    Dynamic_Programming/tobyandquery.cpp
+    ICPC_WrldFnl/2019/azulejos.cpp
+    ICPC_WrldFnl/2019/azulejos_merge.cpp
+    ICPC_WrldFnl/2019/azulejos_pair.cpp
+    Sorting_Searching/triangular.cpp
+    Sorting_Searching/triangular2.cpp
+    Strings/egyptian_binay.cpp
+    b.cpp
+    beautiful_digit.cpp
+    chef_and_prime_factorial.c
+    circuit.cpp
+    code_lock.cpp
+    crystal_mine.cpp
+    d.cpp
+    digital_clock.c
+    distribucion_binomial.cpp
+    dubstep.cpp
+    friend_or_girlfriend.cpp
+    got_recipes.cpp
+    hidden_number.cpp
+    imprimir_matriz.cpp
+    increasing_subsequence.cpp
+    inscribed_figures.cpp
+    insomnia_cure.cpp
+    is_it_rated.cpp
+    "Jalebi_Bai _and Decks_of_Sweets.cpp"
+    neko_finds_grapes.cpp
+    number_game.cpp
+    pigeons.cpp
+    pruebas.cpp
+    quirky_quatifier.cpp
+    read.cpp
+    reduce_to_one.cpp
+    stringofbits.cpp
+    sum_challenge.cpp
+    sumacubos.cpp
+    tboxes.cpp
+    the_guy.cpp
+    uncle_johny.c
+    vasya_thehipster.cpp)
