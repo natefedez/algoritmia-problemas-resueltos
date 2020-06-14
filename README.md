@@ -1,4 +1,4 @@
-# Algoritmia_Problemas_Resueltos
+# algoritmia-problemas-resueltos
 
 ## Compilación de Problemas Resueltos de Programación  
 
