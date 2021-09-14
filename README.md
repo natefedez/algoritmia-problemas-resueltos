@@ -4,7 +4,7 @@
 
 Se dividen en distintas categorías:
 * Ad Hoc: Palabra proveniente del Latín, son problemas que no pueden ser clasificados en ninguna categoría ya que la solución correspondiente es "única". 
-* Algebra Aritmética: Problemas que su solución implementa conceptos matemáticos de la Álgebra o Aritmética
+* Algebra Aritmética
 * Fuerza Bruta
 * Combinación
 * Programación Dinámica
